@@ -42,7 +42,6 @@
   "dependencies": {
     "@histoire/controls": "^0.7.0",
     "@iconify/vue": "^3.2.1",
-    "@types/markdown-it": "^12.2.3",
     "@vueuse/core": "^8.2.5",
     "birpc": "^0.1.1",
     "case": "^1.6.3",
@@ -89,7 +88,6 @@
     "postcss-import": "^14.1.0",
     "tailwindcss": "^3.0.23",
     "typescript": "^4.6.3",
-    "vite": "^2.9.1",
-    "vue": "^3.2.31"
+    "vite": "^2.9.1"
   }
 }
